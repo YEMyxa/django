@@ -3,10 +3,13 @@ from tasks.models import Project, Task
 
 
 class BugReport(models.Model):
+    New = 'New'
+    In_progress = 'In_progress'
+    Completed = 'Completed'
     STATUS_CHOICES = [
-        ('New', 'Новая'),
-        ('In_progress', 'В работе'),
-        ('Completed', 'Завершена')
+        (New, 'Новая'),
+        (In_progress, 'В работе'),
+        (Completed, 'Завершена')
     ]
     title = models.CharField(max_length=100)
     description = models.TextField()

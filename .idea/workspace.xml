@@ -5,34 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf713ef-1c7b-4f6d-a336-b977c701718a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/project_tracker/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/project_tracker/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/project_tracker/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/project_tracker/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/project_tracker/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/quality_control/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/quality_control/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/quality_control/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/quality_control/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/quality_control/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/quality_control/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/quality_control/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/quality_control/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/tasks/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/tasks/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/tasks/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/tasks/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/tasks/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/tasks/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_tracker/tasks/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/quality_control/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/quality_control/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/quality_control/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/quality_control/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/tasks/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/tasks/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/tasks/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/tasks/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.туц.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.туц.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="туц" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LMS" />
@@ -107,5 +85,16 @@
       <updated>1712007082107</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
