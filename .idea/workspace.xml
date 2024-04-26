@@ -7,8 +7,9 @@
     <list default="true" id="8cf713ef-1c7b-4f6d-a336-b977c701718a" name="Changes" comment="second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_tracker/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_tracker/project_tracker/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/project_tracker/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/quality_control/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/quality_control/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_tracker/quality_control/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/quality_control/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/tasks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/tasks/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_tracker/tasks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/tasks/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713999718188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1714074172628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714074172628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +122,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
