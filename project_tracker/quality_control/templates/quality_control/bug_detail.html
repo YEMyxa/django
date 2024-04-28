@@ -1,0 +1,10 @@
+{% extends 'base/base.html' %}
+
+{% block content %}
+    <h1>{{ bugreport.title }}</h1>
+    <p>{{ bugreport.description }}</p>
+    <p>Статус: {{ bugreport.status }}</br>
+        Приоритет: {{ bugreport.priority }}</br>
+        Проект -> задача: {{ bugreport.project }} -> {{ bugreport.task }}</p>
+
+{% endblock %}
