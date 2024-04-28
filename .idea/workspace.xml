@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cf713ef-1c7b-4f6d-a336-b977c701718a" name="Changes" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/LMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_tracker/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_tracker/quality_control/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/quality_control/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/project_tracker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/project_tracker/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_tracker/quality_control/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/quality_control/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_tracker/tasks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/tasks/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_tracker/tasks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/tasks/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_tracker/templates/base/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_tracker/templates/base/nav.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,18 +36,27 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2eW4crYlsZauIt9mEf48JWNl1ti" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.туц.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.туц.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Иван\PycharmProjects\django\project_tracker\quality_control\templates\quality_control" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="туц" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LMS" />
