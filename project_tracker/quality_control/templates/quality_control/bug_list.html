@@ -6,7 +6,7 @@
     <p><a href="{% url 'quality_control:add_bug' %}"> Добавить новый отчет об ошибке</a></p>
 
     <ul>
-        {% for bug in bugs %}
+        {% for bug in bugreport_list %}
             <li><a href="{% url 'quality_control:bug_detail' bug.id %}">{{ bug.title }}</a> - {{ bug.status }}</li>
         {% endfor %}
     </ul>
